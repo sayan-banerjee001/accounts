@@ -1,2 +1,2 @@
 # accounts
-Developing Accounts Microservice for our bank
+Building a Microservice for accounts in banks
